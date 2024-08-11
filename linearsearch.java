@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class linearsearch {
     public static void main(String args[]) {
         int [] arr={2,6,5,4,7};
