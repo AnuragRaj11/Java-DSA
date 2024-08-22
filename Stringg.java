@@ -17,8 +17,8 @@ public class Stringg {
         System.out.println("ab" + 'c');
 
         float n = 112.2353f;
-        System.out.printf("this is number %2f",n);
-        System.out.printf("hello %s and nice %s","anu","cool");
+        System.out.printf("this is number %2f", n);
+        System.out.printf("hello %s and nice %s", "anu", "cool");
 
     }
 }
