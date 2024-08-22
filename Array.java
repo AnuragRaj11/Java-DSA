@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Array {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
 
         // int[] roll = { 1, 2, 3, 4 };
         // System.out.println(roll[2]);

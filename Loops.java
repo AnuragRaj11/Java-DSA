@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Loops {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
 
         int loop = 4;
 

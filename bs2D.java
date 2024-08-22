@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class bs2D {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
         int [][] arr={
             {2,6,5,4},
             {7,8,9,77},

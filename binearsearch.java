@@ -1,5 +1,5 @@
 public class binearsearch {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
         int [] arr={2,6,5,4,7,8,9,77,88,32,22};
         int target=88;
         int ans= bss(arr, target);

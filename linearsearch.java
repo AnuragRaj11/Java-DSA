@@ -1,5 +1,5 @@
 public class linearsearch {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
         int [] arr={2,6,5,4,7};
         int target=6;
         int ans= ls(arr, target);

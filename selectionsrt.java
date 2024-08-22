@@ -22,7 +22,7 @@ public class selectionsrt {
             swap(arr,maxi,last);
     }
 }
-    public static void main(String[] args) {
+    public static void main(Stringg[] args) {
         int []arr={51,2,8,4,9};
         selection(arr);
         System.out.println(Arrays.toString(arr));

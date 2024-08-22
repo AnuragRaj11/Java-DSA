@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Main {
-    public static void main(String args[]) {
+    public static void main(Stringg args[]) {
         System.out.println("hello java again");
 
         Scanner input = new Scanner(System.in);
@@ -10,7 +10,7 @@ public class Main {
         int no = input.nextInt();
         System.out.println("Your a number: " + no);
 
-        String name = input.nextLine();
+        Stringg name = input.nextLine();
         System.out.println("Your name: " + name);
 
         Float num = input.nextFloat();

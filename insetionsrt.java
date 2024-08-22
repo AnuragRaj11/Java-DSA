@@ -12,7 +12,7 @@ public class insetionsrt {
             }
         }
     }
-    public static void main(String[] args) {
+    public static void main(Stringg[] args) {
         int []arr={5,-2,8,3,9};
         insertion(arr);
         System.out.println(Arrays.toString(arr));
