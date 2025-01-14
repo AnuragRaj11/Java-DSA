@@ -1,8 +1,8 @@
 import java.util.*;
 
-public class Meth {
+public class Math {
     public static void main(Stringg args[]) {
-        msg();
+        /* msg(); */
     }
 
     // static int sum2() {
@@ -14,10 +14,10 @@ public class Meth {
     // return sum;
     // }
 
-    static Stringg msg() {
+   /*  static Stringg msg() {
         Stringg msg2 = "Hello function";
         System.out.println(msg2);
         return msg2;
-    }
+    } */
 
 }
