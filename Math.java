@@ -5,6 +5,11 @@ public class Math {
         /* msg(); */
     }
 
+    public static Object min(Object i, Object j) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'min'");
+    }
+
     // static int sum2() {
     // Scanner in = new Scanner(System.in);
     // int n1 = in.nextInt();
