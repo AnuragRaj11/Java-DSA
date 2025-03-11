@@ -10,7 +10,7 @@ public class Main {
         int no = input.nextInt();
         System.out.println("Your a number: " + no);
 
-        Stringg name = input.nextLine();
+        String name = input.nextLine();
         System.out.println("Your name: " + name);
 
         Float num = input.nextFloat();

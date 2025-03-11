@@ -132,7 +132,7 @@ class Pattern {
 
         for (int rows = 0; rows < n; rows++) {
             for (int cols = 0; cols < n; cols++) {
-                int i = on - Math.min(Math.min(rows, cols), Math.min(n - rows - 1, n - cols - 1));
+                int i = on - (int)Math.min(Math.min(rows, cols), Math.min(n - rows - 1, n - cols - 1));
                 System.out.print(+i);
             }
             System.out.println();
