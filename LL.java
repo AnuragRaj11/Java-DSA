@@ -96,13 +96,13 @@ public class LL {
         list.addAtTail(10);
         list.addAtTail(20);
         list.addAtTail(30);
-        list.printList();  // 10 → 20 → 30 → null
+        list.printList(); 
 
         list.addAtHead(5);
-        list.printList();  // 5 → 10 → 20 → 30 → null
+        list.printList(); 
 
         list.delete(20);
-        list.printList();  // 5 → 10 → 30 → null
+        list.printList(); 
 
         System.out.println("Search 10: " + list.search(10));  // true
         System.out.println("Search 50: " + list.search(50));  // false
