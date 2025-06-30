@@ -77,5 +77,17 @@ class BinaryTree {
 
     System.out.println("Binary Tree Traversals:");
     tree.printTree();
+
+    BinaryTree avlTree = new BinaryTree();
+    avlTree.root = new Node(30);
+    avlTree.root.left = new Node(20);
+    avlTree.root.right = new Node(40);
+    avlTree.root.left.left = new Node(10);
+    avlTree.root.left.right = new Node(25);
+    System.out.println("\nAVL Tree Traversals:");
+    avlTree.printTree();
+
+    
+    
 }
 } 
